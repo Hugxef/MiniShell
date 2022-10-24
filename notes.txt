@@ -1,0 +1,2 @@
+ls > test | trrr | ls | wc > test2 -> devrait afficher un erreur
+echo salut > t > ty > test -> met pas la valeur salut dans le dernier fichier
